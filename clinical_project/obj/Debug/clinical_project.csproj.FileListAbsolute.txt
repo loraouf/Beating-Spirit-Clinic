@@ -1,0 +1,14 @@
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.exe.config
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.exe
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form1.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form2.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form3.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form4.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Properties.Resources.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.exe
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.pdb
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.pdb

@@ -1,0 +1,55 @@
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.exe.config
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.exe
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\bin\Debug\clinical_project.pdb
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\Patient's Pages.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\Patient's Pages.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form1.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form2.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form3.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form4.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form5.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Properties.Resources.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\Patient's Pages.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\Patient's Pages.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.exe
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.pdb
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form10.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form11.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form12.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form8.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form9.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form13.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form14.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form15.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form16.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form17.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form19.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form21.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form22.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form23.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form24.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form25.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form26.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form29.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form30.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form31.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form32.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form33.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form34.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form35.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form36.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form37.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form38.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form39.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form43.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form44.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form6.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form18.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form7.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form20.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form27.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form28.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form40.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form41.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form42.resources
+C:\Users\laura\OneDrive\Desktop\clinical project\clinical_project\clinical_project\obj\Debug\clinical_project.Form45.resources
