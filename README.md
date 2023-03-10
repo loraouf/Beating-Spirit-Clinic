@@ -1,2 +1,2 @@
 # Beating-Spirit-Clinic
-cardiovascular clinic  c# 
+cardiovascular clinic  c# (.Net)
